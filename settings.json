@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HydroSMP-ni71.aternos.me:17712",
+    "ip": "HydroSMP-ni71.aternos.me",
     "port": 17712,
     "version": "1.21.11",
     "try-creative": false
